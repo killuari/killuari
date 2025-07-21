@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killuari&theme=tokyonight&column=8&row=1&margin-w=10&no-frame=true"/></a></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=killuari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25"/> <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuari&theme=tokyonight&border_radius=25&hide_border=true"/> <br><br>
+  <img align="center" src="https://github-readme-stats-mu-five-65.vercel.app/api?username=killuari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&include_all_commits=true"/> <br><br>
+  <img align="center" src="https://github-readme-streak-stats-one-nu-73.vercel.app/?user=killuari&theme=tokyonight&border_radius=25&hide_border=true"/> <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuari&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=25"/>
 </p>
