@@ -1,16 +1,19 @@
-## Hi there 👋
+[comment]: <> (Stolen from DA-334's README page! If they're reading this, hello, ignore :v)
 
-<!--
-**killuari/killuari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋 - luis</h1>
+<h3 align="center">Programmer and Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm experienced in Python and C++.<br/>
+  I like to contribute to open-source projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=killuari&label=Profile%20views&color=ff0000&style=flat" alt="anony lol" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killuari&theme=tokyonight&no-frame=true&column=8&row=1"/></a></p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killuari&theme=synthwave"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuari&show_icons=true&locale=en&layout=compact&theme=synthwave"/>
+  <br/>
+</p>
