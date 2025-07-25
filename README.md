@@ -1,6 +1,8 @@
 [comment]: <> (Stolen from DA-334's and DenverCoder1's README page! If they're reading this, hello, ignore :v)
 
-<h1 align="center">Luis Kahles</h1>
+<p align="center">
+  <img src="./.github/images/title.png" alt="Luis Kahles"/>
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
