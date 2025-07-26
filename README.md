@@ -17,5 +17,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats-mu-five-65.vercel.app/api?username=killuari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&include_all_commits=true"/> <br><br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-vert.vercel.app?user=killuari&theme=tokyonight&hide_border=true&border_radius=25" alt="GitHub Streak" /></a> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killuari&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=25"/>
+  <img align="center" src="https://github-readme-stats-mu-five-65.vercel.app/api/top-langs?username=killuari&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=25"/>
 </p>
